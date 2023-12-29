@@ -2,7 +2,7 @@
 
 ```bash
 # 克隆项目
-git clone https://gitee.com/y_project/RuoYi-Vue
+git clone 地址
 
 # 进入项目目录
 cd ruoyi-ui
@@ -28,3 +28,7 @@ npm run build:stage
 # 构建生产环境
 npm run build:prod
 ```
+
+## 若依前后端分离交流群
+
+QQ群交流群：704086191
